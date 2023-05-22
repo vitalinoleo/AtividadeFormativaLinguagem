@@ -1,0 +1,9 @@
+Exercicio 6 ==== 10 alunos com 4 nots, contar numero de medias >7
+
+1. criar vetor numero de alunos (10 posiçoes)
+     a. criar um novo vetor com os numeros de notas (4 posiçoes )
+
+2. criar um laço para entrada de dados 
+     a. criar um novo laço para entrada das notas 
+     b. calcular a media das notas 
+     c. se nedia for >7 contar 
